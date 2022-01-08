@@ -1,4 +1,4 @@
-#Alphabet Soup Charity Neural Network Analysis
+# Alphabet Soup Charity Neural Network Analysis
 
 ## Overview
 This analysis serves to explore the creation, and optimization of a deep learning neural network that was used to classify if an organization would be successful if funded by Alphabet Soup Charity.
