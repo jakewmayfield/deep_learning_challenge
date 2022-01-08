@@ -14,4 +14,4 @@ Four total attempts were made to attempt to train the model to 75% or higher, to
     * On my second-fourth attempt I added another layer, increased features to 100, 50, and 40 (all with relu), and increased epochs to 50 and then 100.
 
 ## Summary
-Ovearll, the model performed fairly well, with saturation occuring around 72%.  Another model with cleaner data, and using a different encoding method would help the model to perform better.
+Overall, the model performed fairly well, with saturation occuring around 72%.  Another model with cleaner data, and using a different encoding method would help the model to perform better.
