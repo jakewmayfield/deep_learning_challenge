@@ -9,7 +9,7 @@ Four total attempts were made to attempt to train the model to 75% or higher, to
 * Data Preprocessing
     * The variable used for the target of the model was "IS_SUCCESSFUL".  This was historical data that listed if an organization was successful after funding.
     * The features of the model were everything else, except for the columns "EIN", "NAME".  During optimization additional columns were dropped ("SPECIAL_CONSIDERATIONS").
-  * Compiling, Training, and Evaluating the Model
+* Compiling, Training, and Evaluating the Model
     * In the beginning of the model, I used 2 hidden layers with 50 and 25 features, and 20 epochs to avoid overcrowding.
     * On my second-fourth attempt I added another layer, increased features to 100, 50, and 40 (all with relu), and increased epochs to 50 and then 100.
 
